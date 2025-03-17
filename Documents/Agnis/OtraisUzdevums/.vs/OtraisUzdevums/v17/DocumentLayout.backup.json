@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Students1\\Documents\\Agnis\\OtraisUzdevums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3444A8-EE89-4E12-AF13-3D55CFCB7CA4}|OtraisUzdevums\\OtraisUzdevums.csproj|c:\\users\\students1\\documents\\agnis\\otraisuzdevums\\otraisuzdevums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3444A8-EE89-4E12-AF13-3D55CFCB7CA4}|OtraisUzdevums\\OtraisUzdevums.csproj|solutionrelative:otraisuzdevums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Students1\\Documents\\Agnis\\OtraisUzdevums\\OtraisUzdevums\\Program.cs",
+              "RelativeDocumentMoniker": "OtraisUzdevums\\Program.cs",
+              "ToolTip": "C:\\Users\\Students1\\Documents\\Agnis\\OtraisUzdevums\\OtraisUzdevums\\Program.cs",
+              "RelativeToolTip": "OtraisUzdevums\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:32:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

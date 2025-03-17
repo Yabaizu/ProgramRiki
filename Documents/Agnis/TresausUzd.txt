@@ -1,0 +1,24 @@
+using System;
+
+namespace TresaisUzdevums
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Random rnd = new Random();
+            int[] skaitluSaraksts = new int[10];
+            for(int i = 0; i < 10; i++)
+            {
+                skaitluSaraksts[i] = rnd.Next(1, 101);
+                Console.WriteLine("Skaitlis " + i+1 + ". - " + skaitluSaraksts[i]);
+            }
+
+            Predicate<int> irPirmskaitlis = delegate (int irPirm)
+            {
+                return (irPirm % 1);
+            };
+
+        }
+    }
+}

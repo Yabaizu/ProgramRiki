@@ -1,0 +1,14 @@
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\bin\Debug\net8.0\OtraisUzdevums.exe
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\bin\Debug\net8.0\OtraisUzdevums.deps.json
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\bin\Debug\net8.0\OtraisUzdevums.runtimeconfig.json
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\bin\Debug\net8.0\OtraisUzdevums.dll
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\bin\Debug\net8.0\OtraisUzdevums.pdb
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.AssemblyInfoInputs.cache
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.AssemblyInfo.cs
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.csproj.CoreCompileInputs.cache
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.dll
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\refint\OtraisUzdevums.dll
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.pdb
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\OtraisUzdevums.genruntimeconfig.cache
+C:\Users\Students1\Documents\Agnis\OtraisUzdevums\OtraisUzdevums\obj\Debug\net8.0\ref\OtraisUzdevums.dll
